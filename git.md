@@ -3,7 +3,7 @@ title: "Git Info"
 keywords:
   - Github
   - Git
-...
+---
 
 Based on the [Git Book](https://git-scm.com/book/en/v2/), which has a [cheat sheet](https://git-scm.com/cheat-sheet).
 
